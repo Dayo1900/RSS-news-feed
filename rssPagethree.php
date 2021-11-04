@@ -69,3 +69,11 @@ Posted on <?php echo $news -> get_date('j F Y | g: i: a'); ?>
 </div>
 <br><br><br>
 
+
+    <footer>
+<small>
+    <p style="text-align:center;">Created by Dayo Abdul &#169; 2021 </p>
+</small>
+</footer>
+</body>
+</html>
